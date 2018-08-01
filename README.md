@@ -2,7 +2,7 @@ Scala like List Transformation functions for Python
 
 Scalike (Python3)
 
-Full doc at: netnotnut.org/scalike  
+Full doc at: www.netnotnut.org/scalike  
 Contact scalike@gmx.com  
 License: MIT  
 
